@@ -26,7 +26,13 @@
 ![12](https://github.com/user-attachments/assets/5ceefbdf-a8f7-46a2-bdfc-d46ea1a5e62e)
 ![13](https://github.com/user-attachments/assets/2fdddfeb-ac16-4769-b77b-bf331ebdf793)
 ![14](https://github.com/user-attachments/assets/b5c64d1e-a685-4d99-9bb0-e3870e5453ea)
-![lianxi](https://github.com/user-attachments/assets/14112829-d950-4781-a741-353f3813cc31)
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+
+![wx](https://github.com/user-attachments/assets/4d1723ed-a2e3-4d5f-b65c-d61a9b7c6afd)
+
 
 
 
